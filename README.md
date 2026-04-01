@@ -1,5 +1,7 @@
 # 💫 About Me:
-Data Engineering<br>
+Data Engineer focused on building reliable, scalable data pipelines on AWS, Azure, Snowflake, and Databricks. I enjoy turning raw, messy data into clean, usable datasets that support real business decisions.
+
+I care about doing things right—simple, efficient designs, strong data quality, and systems that actually hold up in production.<br>
 
 
 ## 🌐 Socials:
